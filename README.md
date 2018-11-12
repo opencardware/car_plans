@@ -53,5 +53,3 @@ For other questions, comments, or suggestions, please email them to opencardware
 
 
 ## Materials and supplies
-
-
