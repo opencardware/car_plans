@@ -8,7 +8,7 @@ There are six phases to this project (full instructions coming soon):
 
 1. Cardboard parts
 2. 3D-printed parts
-3. Cardware assembly
+3. [Cardware assembly](https://github.com/opencardware/car/tree/20181103_dev/3_cardware_assembly.md)
 4. Raspberry Pi
 5. Electronic hardware assembly
 6. Code
