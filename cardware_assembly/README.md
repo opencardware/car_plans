@@ -1,12 +1,12 @@
 # Cardware Assembly
 
-### Need:
+### What you need:
 
 - Cardware parts
 - 3D-printed parts
-- Servo motor (regular 180-degree), along with 21mmm length horn
+- Servo motor (regular 180-degree), along with 21mm length horn
 - Servo motor (continuous 360-degree), along with "+" shaped horn
-- Zip ties
+- Zip ties (50)
 - Shear cutters or pliers (to trim the zip ties)
 
 ### Contents
