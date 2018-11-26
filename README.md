@@ -21,13 +21,12 @@ Please refer to the "Materials and supplies" section below to get a good sense o
 
 ### How long will it take me to complete this project?
 It depends on whether you decide to:
-- make the cardware parts yourself
+- make the cardware parts yourself,
 - pay a laser cutting and/or 3D printing service to make the parts for you, or
-- buy a kit containing all of the parts ready for you to assemble. (This option isn't available yet but I hope to make it happen soon.)
-Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3, after which you can probably start programming in a day or two.
+- (COMING SOON) buy a kit containing all of the parts ready for you to assemble. Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3, after which you can probably start programming in a day or two.
 
 
-### What could I do with this car?
+### What can I do with this car?
 - Program the Raspberry Pi to drive the car.
 - Take pictures and video while driving.
 - Collect images and train a neural network that will allow the car to drive itself along road lane markers.

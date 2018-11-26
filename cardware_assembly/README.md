@@ -262,6 +262,10 @@ IMG_20181114_220648_resized.jpg
 
 ![IMG_20181114_220648_resized.jpg](imgs_steering/IMG_20181114_220648_resized.jpg)
 
+IMG_20181114_222309_resized.jpg
+
+![IMG_20181114_222309_resized.jpg](imgs_steering/IMG_20181114_222309_resized.jpg)
+
 IMG_20181114_222204_resized.jpg
 
 ![IMG_20181114_222204_resized.jpg](imgs_steering/IMG_20181114_222204_resized.jpg)
@@ -269,10 +273,6 @@ IMG_20181114_222204_resized.jpg
 IMG_20181114_222219_resized.jpg
 
 ![IMG_20181114_222219_resized.jpg](imgs_steering/IMG_20181114_222219_resized.jpg)
-
-IMG_20181114_222309_resized.jpg
-
-![IMG_20181114_222309_resized.jpg](imgs_steering/IMG_20181114_222309_resized.jpg)
 
 IMG_20181114_222407_resized.jpg
 
