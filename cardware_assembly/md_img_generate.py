@@ -12,13 +12,10 @@ args = parser.parse_args()
 img_dir = args.image_dir
 
 path = os.getcwd()
-# print(path)
 
 filenames = os.listdir(os.path.join(img_dir))
-# print(filenames)
-
-github_dir = 'https://github.com/opencardware/car/blob/20181103_dev/cardware_assembly/imgs_drivetrain/'
 
 for f in filenames:
-	string = '![alt text]({}{} "{}")'.format(github_dir, f, f)
+	string = '![{}]({}{})'.format(f, img_dir, f)
+	print(f)
 	print(string)
