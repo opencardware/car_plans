@@ -14,8 +14,9 @@ img_dir = args.image_dir
 path = os.getcwd()
 
 filenames = os.listdir(os.path.join(img_dir))
+filenames.sort()
 
 for f in filenames:
 	string = '![{}]({}{})'.format(f, img_dir, f)
-	print(f)
-	print(string)
+	print(f + '\n')
+	print(string + '\n')
