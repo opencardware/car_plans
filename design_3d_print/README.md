@@ -45,3 +45,9 @@ Mounts | [hood_support_R.stl](https://www.thingiverse.com/download:5652710) | 1 
 Mounts | [battery_door.stl](https://www.thingiverse.com/download:5652711) | 1 |
 Mounts | [LCD_mount.stl](https://www.thingiverse.com/download:5652713) | 1 |
 Mounts | [pi_mount.stl](https://www.thingiverse.com/download:5652716) | 1 |
+
+
+## License
+OpenCardware - Car was created by opencardware When uploading to Thingiverse, members grant us permission to offer these files for download. Along with this, they also enable certain License and Attributions associated with their Thing:
+ Creative Commons - Public Domain Dedication
+OpenCardware - Car by opencardware is licensed under the Creative Commons - Public Domain Dedication license.
