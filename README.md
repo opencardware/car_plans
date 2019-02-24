@@ -17,7 +17,7 @@ There are six phases to this project (full instructions coming soon):
 ## FAQ
 
 ### What materials and supplies do I need and how much will it cost to complete this project?
-Please refer to the "Materials and supplies" section below to get a good sense of the items you will need.
+Please refer to the "Materials and supplies" section below.
 
 ### How long will it take me to complete this project?
 It depends on whether you decide to:

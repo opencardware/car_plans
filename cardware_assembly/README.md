@@ -6,8 +6,15 @@
 - 3D-printed parts
 - Servo motor (regular 180-degree), along with 21mm length horn
 - Servo motor (continuous 360-degree), along with "+" shaped horn
+- Battery pack (for 4 AA batteries)
+- Raspberry Pi
+- Raspberry Pi Camera
 - Zip ties (50)
+- Binding screws (2)
 - Shear cutters or pliers (to trim the zip ties)
+- Glue
+- Jumper wires
+- Velcro strap
 
 ### Contents
 
@@ -15,6 +22,7 @@
 - [Steering](#steering)
 - [Mounts](#mounts)
 - [Camera](#camera)
+- [Body](#body)
 - [Wiring](#wiring)
 
 
@@ -55,7 +63,7 @@ Plop those pieces down onto `base_CENTER`, making sure the brim of the servo fit
 
 ![IMG_20181111_165421_resized.jpg](imgs_drivetrain/IMG_20181111_165421_resized.jpg)
 
-Loop a zip tie through `base_CENTER` and `pin`, then close zip tie.
+Loop a zip tie through `base_CENTER` and `pin`, then close zip tie. Prune the zip tie.
 
 ![IMG_20181111_165501_resized.jpg](imgs_drivetrain/IMG_20181111_165501_resized.jpg)
 
@@ -565,6 +573,9 @@ IMG_20181216_214734_resized.jpg
 
 ![IMG_20181216_214734_resized.jpg](imgs_mount/IMG_20181216_214734_resized.jpg)
 
+
+## Body
+TODO: add pictures
 
 ## Wiring
 
