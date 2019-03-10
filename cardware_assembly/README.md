@@ -27,11 +27,11 @@
 
 
 ## Drivetrain
-You'll need the continous servo motor with the "+" shaped arm, `gear_servo`, `pin`, and `base_CENTER`.
+You'll need the continuous servo motor with the "+" shaped arm, `gear_servo`, `pin`, and `base_CENTER`.
 
 ![IMG_20181111_163704_resized.jpg](imgs_drivetrain/IMG_20181111_163704_resized.jpg)
 
-And the chassis. Orient it exactly like this.
+You'll also need the chassis. Orient it exactly like this.
 
 ![IMG_20181215_152536_resized.jpg](imgs_mount/IMG_20181215_152536_resized.jpg)
 
@@ -39,7 +39,7 @@ Zip tie `base_CENTER` onto the chassis...
 
 ![IMG_20181111_165049_resized.jpg](imgs_drivetrain/IMG_20181111_165049_resized.jpg)
 
-...and also `base_LEFT` and `base_RIGHT`.
+...as well as `base_LEFT` and `base_RIGHT`.
 
 ![IMG_20181111_165256_resized.jpg](imgs_drivetrain/IMG_20181111_165256_resized.jpg)
 
@@ -55,7 +55,7 @@ Then attach the `gear_servo`.
 
 ![IMG_20181111_163751_resized.jpg](imgs_drivetrain/IMG_20181111_163751_resized.jpg)
 
-Then attach the `pin`.
+Then insert the `pin`.
 
 ![IMG_20181111_163802_resized.jpg](imgs_drivetrain/IMG_20181111_163802_resized.jpg)
 
@@ -91,11 +91,11 @@ Feed the `shaft` through the `ring`, then `gear_shaft`, and then the other `ring
 
 ![IMG_20181111_165958_resized.jpg](imgs_drivetrain/IMG_20181111_165958_resized.jpg)
 
-Your drivetrain should now look like this, and the two gears should mesh. Turn the `shaft` with your hand to test the meshing.
+Your drivetrain should now look like this, and the two gears should mesh. Turn the `shaft` with your hand to test that `gear_shaft` meshes nicely with `gear_servo`.
 
 ![IMG_20181111_170041_resized.jpg](imgs_drivetrain/IMG_20181111_170041_resized.jpg)
 
-Loop a zip tie through two `stay` pieces and the `shaft`, like so.
+Loop a zip tie through two `stay` pieces and the `shaft`, like so. NOTE: Your `stay` pieces may look a bit different (e.g. "L" shaped).
 
 ![IMG_20181111_170142_resized.jpg](imgs_drivetrain/IMG_20181111_170142_resized.jpg)
 
