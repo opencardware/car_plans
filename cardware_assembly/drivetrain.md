@@ -152,30 +152,30 @@ The top should look like this. Repeat for the other one.
 
 ![IMG_20181111_172155_resized.jpg](imgs_drivetrain/IMG_20181111_172155_resized.jpg)
 
-MVIMG_20190309_141433.jpg
+MVIMG_20190309_141433_resized.jpg
 
-![MVIMG_20190309_141433.jpg](imgs_drivetrain/MVIMG_20190309_141433.jpg)
+![MVIMG_20190309_141433_resized.jpg](imgs_drivetrain/MVIMG_20190309_141433_resized.jpg)
 
-MVIMG_20190309_141603.jpg
+MVIMG_20190309_141603_resized.jpg
 
-![MVIMG_20190309_141603.jpg](imgs_drivetrain/MVIMG_20190309_141603.jpg)
+![MVIMG_20190309_141603_resized.jpg](imgs_drivetrain/MVIMG_20190309_141603_resized.jpg)
 
-MVIMG_20190309_141813.jpg
+MVIMG_20190309_141813_resized.jpg
 
-![MVIMG_20190309_141813.jpg](imgs_drivetrain/MVIMG_20190309_141813.jpg)
+![MVIMG_20190309_141813_resized.jpg](imgs_drivetrain/MVIMG_20190309_141813_resized.jpg)
 
-MVIMG_20190309_141854.jpg
+MVIMG_20190309_141854_resized.jpg
 
-![MVIMG_20190309_141854.jpg](imgs_drivetrain/MVIMG_20190309_141854.jpg)
+![MVIMG_20190309_141854_resized.jpg](imgs_drivetrain/MVIMG_20190309_141854_resized.jpg)
 
-MVIMG_20190309_142000.jpg
+MVIMG_20190309_142000_resized.jpg
 
-![MVIMG_20190309_142000.jpg](imgs_drivetrain/MVIMG_20190309_142000.jpg)
+![MVIMG_20190309_142000_resized.jpg](imgs_drivetrain/MVIMG_20190309_142000_resized.jpg)
 
-MVIMG_20190309_142131.jpg
+MVIMG_20190309_142131_resized.jpg
 
-![MVIMG_20190309_142131.jpg](imgs_drivetrain/MVIMG_20190309_142131.jpg)
+![MVIMG_20190309_142131_resized.jpg](imgs_drivetrain/MVIMG_20190309_142131_resized.jpg)
 
-MVIMG_20190309_142145.jpg
+MVIMG_20190309_142145_resized.jpg
 
-![MVIMG_20190309_142145.jpg](imgs_drivetrain/MVIMG_20190309_142145.jpg)
+![MVIMG_20190309_142145_resized.jpg](imgs_drivetrain/MVIMG_20190309_142145_resized.jpg)
