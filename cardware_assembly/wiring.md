@@ -2,51 +2,51 @@
 
 IMG_20181218_111947_resized.jpg
 
-![IMG_20181218_111947_resized.jpg](imgs_mount/IMG_20181218_111947_resized.jpg)
+![IMG_20181218_111947_resized.jpg](imgs_wiring/IMG_20181218_111947_resized.jpg)
 
 IMG_20181218_112107_resized.jpg
 
-![IMG_20181218_112107_resized.jpg](imgs_mount/IMG_20181218_112107_resized.jpg)
+![IMG_20181218_112107_resized.jpg](imgs_wiring/IMG_20181218_112107_resized.jpg)
 
 IMG_20181218_112453_resized.jpg
 
-![IMG_20181218_112453_resized.jpg](imgs_mount/IMG_20181218_112453_resized.jpg)
+![IMG_20181218_112453_resized.jpg](imgs_wiring/IMG_20181218_112453_resized.jpg)
 
 IMG_20181218_112548_resized.jpg
 
-![IMG_20181218_112548_resized.jpg](imgs_mount/IMG_20181218_112548_resized.jpg)
+![IMG_20181218_112548_resized.jpg](imgs_wiring/IMG_20181218_112548_resized.jpg)
 
 IMG_20181218_112846_resized.jpg
 
-![IMG_20181218_112846_resized.jpg](imgs_mount/IMG_20181218_112846_resized.jpg)
+![IMG_20181218_112846_resized.jpg](imgs_wiring/IMG_20181218_112846_resized.jpg)
 
 IMG_20181218_112920_resized.jpg
 
-![IMG_20181218_112920_resized.jpg](imgs_mount/IMG_20181218_112920_resized.jpg)
+![IMG_20181218_112920_resized.jpg](imgs_wiring/IMG_20181218_112920_resized.jpg)
 
 IMG_20181218_113123_resized.jpg
 
-![IMG_20181218_113123_resized.jpg](imgs_mount/IMG_20181218_113123_resized.jpg)
+![IMG_20181218_113123_resized.jpg](imgs_wiring/IMG_20181218_113123_resized.jpg)
 
 IMG_20181218_113225_resized.jpg
 
-![IMG_20181218_113225_resized.jpg](imgs_mount/IMG_20181218_113225_resized.jpg)
+![IMG_20181218_113225_resized.jpg](imgs_wiring/IMG_20181218_113225_resized.jpg)
 
 IMG_20181218_120158_resized.jpg
 
-![IMG_20181218_120158_resized.jpg](imgs_mount/IMG_20181218_120158_resized.jpg)
+![IMG_20181218_120158_resized.jpg](imgs_wiring/IMG_20181218_120158_resized.jpg)
 
 IMG_20181218_120406_resized.jpg
 
-![IMG_20181218_120406_resized.jpg](imgs_mount/IMG_20181218_120406_resized.jpg)
+![IMG_20181218_120406_resized.jpg](imgs_wiring/IMG_20181218_120406_resized.jpg)
 
 IMG_20181218_152911_resized.jpg
 
-![IMG_20181218_152911_resized.jpg](imgs_mount/IMG_20181218_152911_resized.jpg)
+![IMG_20181218_152911_resized.jpg](imgs_wiring/IMG_20181218_152911_resized.jpg)
 
 IMG_20181219_113302_resized.jpg
 
-![IMG_20181219_113302_resized.jpg](imgs_mount/IMG_20181219_113302_resized.jpg)
+![IMG_20181219_113302_resized.jpg](imgs_wiring/IMG_20181219_113302_resized.jpg)
 
 MVIMG_20190310_142923_resized.jpg
 
