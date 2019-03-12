@@ -2,6 +2,39 @@
 
 Build an RC car using cardboard and 3D-printed parts; make it autonomous with Raspberry Pi and Python.
 
+MVIMG_20190309_171725_resized.jpg
+
+![MVIMG_20190309_171725_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190309_171725_resized.jpg)
+
+MVIMG_20190309_171743_resized.jpg
+
+![MVIMG_20190309_171743_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190309_171743_resized.jpg)
+
+MVIMG_20190309_171813_resized.jpg
+
+![MVIMG_20190309_171813_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190309_171813_resized.jpg)
+
+MVIMG_20190309_171818_resized.jpg
+
+![MVIMG_20190309_171818_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190309_171818_resized.jpg)
+
+MVIMG_20190309_171914_resized.jpg
+
+![MVIMG_20190309_171914_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190309_171914_resized.jpg)
+
+MVIMG_20190310_182908_resized.jpg
+
+![MVIMG_20190310_182908_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190310_182908_resized.jpg)
+
+MVIMG_20190310_182912_resized.jpg
+
+![MVIMG_20190310_182912_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190310_182912_resized.jpg)
+
+MVIMG_20190310_182944_resized.jpg
+
+![MVIMG_20190310_182944_resized.jpg](/Users/PaulYim/Desktop/Photos/resized/MVIMG_20190310_182944_resized.jpg)
+
+
 This repository contains all of the files you need to build a programmable RC car out of cardboard and 3D-printed parts.
 
 There are six phases to this project (full instructions coming soon):
