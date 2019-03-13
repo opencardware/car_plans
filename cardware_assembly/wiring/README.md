@@ -1,4 +1,4 @@
-## Wiring
+# Wiring
 
 ### What you'll need
 

@@ -1,4 +1,4 @@
-## Mounts
+# Mounts
 
 ### What you'll need
 

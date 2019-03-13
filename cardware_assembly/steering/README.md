@@ -1,4 +1,4 @@
-## Steering
+# Steering
 
 ### What you'll need
 

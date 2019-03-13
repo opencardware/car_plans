@@ -1,6 +1,8 @@
-## Camera
+# Camera
 
-### What you'll need
+### What you'll need:
+
+- [camera parts](../../design_3d_print/README.md)
 - 
 
 IMG_20181114_213603_resized.jpg

@@ -1,6 +1,7 @@
 # 3D-printed Parts
 
-All `.stl` files for 3D-printed parts have been uploaded to [Thingiverse](https://www.thingiverse.com/thing:3194140/files).
+All `.stl` files for 3D-printed parts have been uploaded to Thingiverse.
+[Download files](https://www.thingiverse.com/thing:3194140/files)
 
 There are three different ways you can get these parts printed:
 
@@ -24,7 +25,7 @@ Drivetrain | base_LEFT.stl | 1 |
 Drivetrain | base_RIGHT.stl | 1 |
 Drivetrain | base_CENTER.stl | 1 |
 Drivetrain | bolt.stl | 2 |
-Drivetrain | stay.stl | 4 |
+Drivetrain | stay.stl | 2 |
 Steering | bridge.stl | 2 |
 Steering | arm_top.stl | 2 |
 Steering | arm_base.stl | 2 |
