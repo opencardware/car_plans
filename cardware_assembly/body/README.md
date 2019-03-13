@@ -12,7 +12,7 @@
 - **solid line**: Cut all the way through using scissors.
 - **dashed line**: Score on the bottom of the sheet.
 - **dotted line**: Score on the top of the sheet.
-- **rectangle with an X through it**: Cut all the way through using X-acto knife.
+- **rectangle/trapezoid with an X through it**: Cut all the way through using X-acto knife.
 
 ![car_body_cut_examples.png](imgs_body/car_body_cut_examples.png)
 

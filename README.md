@@ -9,7 +9,7 @@ Build an RC car using cardboard and 3D-printed parts; make it autonomous with Ra
 
 This repository contains all of the files and documentation you need to build a programmable RC car out of cardboard and 3D-printed parts.
 
-There are four phases to this project:
+There are four phases to this project. Please follow the links below for instructions on completing each phase.
 
 1. [Cardboard parts](design_cardboard/)
 2. [3D-printed parts](design_3d_print/)
