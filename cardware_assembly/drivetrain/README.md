@@ -1,6 +1,6 @@
 ## Drivetrain
 
-### What you need:
+### What you'll need
 
 You'll need the continuous servo motor with the "+" shaped arm, `gear_servo`, `pin`, and `base_CENTER`.
 

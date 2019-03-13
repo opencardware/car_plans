@@ -2,7 +2,7 @@ from PIL import Image
 import os, sys
 
 # Update this: This path points to where the original images are.
-path = '/Users/PaulYim/desktop/Photos/'
+path = '/Users/PaulYim/desktop/Photos_1/'
 dirs = os.listdir(path)
 
 new_path = path + 'resized/'

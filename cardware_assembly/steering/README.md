@@ -1,6 +1,6 @@
 ## Steering
 
-### What you need:
+### What you'll need
 
 IMG_20181114_205556_resized.jpg
 

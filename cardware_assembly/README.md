@@ -1,6 +1,6 @@
 # Cardware Assembly
 
-### Contents
+### Sections
 
 - [Drivetrain](drivetrain)
 - [Steering](steering)

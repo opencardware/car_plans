@@ -1,6 +1,6 @@
 ## Wiring
 
-### What you need:
+### What you'll need
 
 IMG_20181218_111947_resized.jpg
 

@@ -1,6 +1,6 @@
 ## Mounts
 
-### What you need:
+### What you'll need
 
 IMG_20181215_165114_resized.jpg
 
