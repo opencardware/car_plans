@@ -7,7 +7,7 @@
 - ruler
 - glue (or scotch tape)
 
-Here's how to cut the different lines:
+**Here's how to cut the different types of lines:**
 
 - **solid line**: Cut all the way through using scissors.
 - **dashed line**: Score on the bottom of the sheet.

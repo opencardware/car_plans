@@ -1,6 +1,6 @@
 # Cardware Assembly
 
-### Sections
+### Please select a section
 
 - [Drivetrain](drivetrain)
 - [Steering](steering)
