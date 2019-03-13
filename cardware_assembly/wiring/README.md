@@ -2,6 +2,13 @@
 
 ### What you'll need
 
+- Raspberry Pi
+- MicroSD card
+- Raspbian OS image with LCD driver [you can use this](https://drive.google.com/drive/u/0/folders/17x04ZHzKELKJzLbgAJyq37-8wUqxjp53)
+- LCD screen - 3.5"
+- Jumper wires (14)
+
+
 IMG_20181218_111947_resized.jpg
 
 ![IMG_20181218_111947_resized.jpg](imgs_wiring/IMG_20181218_111947_resized.jpg)
