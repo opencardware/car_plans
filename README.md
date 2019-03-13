@@ -3,31 +3,24 @@
 Build an RC car using cardboard and 3D-printed parts; make it autonomous with Raspberry Pi and Python.
 
 
-MVIMG_20190310_182908.jpg
-
 ![MVIMG_20190310_182908.jpg](imgs/MVIMG_20190310_182908.jpg)
-
-MVIMG_20190310_145837.jpg
 
 ![MVIMG_20190310_145837.jpg](imgs/MVIMG_20190310_145837.jpg)
 
+This repository contains all of the files and documentation you need to build a programmable RC car out of cardboard and 3D-printed parts.
 
-This repository contains all of the files you need to build a programmable RC car out of cardboard and 3D-printed parts.
+There are four phases to this project:
 
-There are six phases to this project (full instructions coming soon):
-
-1. Cardboard parts
-2. 3D-printed parts
-3. [Cardware assembly](cardware_assembly/README.md)
-4. Raspberry Pi
-5. Electronic hardware assembly
-6. Code
+1. [Cardboard parts](design_cardboard/)
+2. [3D-printed parts](design_3d_print/)
+3. [Cardware assembly](cardware_assembly/)
+4. Code (coming soon)
 
 
 ## FAQ
 
 ### What materials and supplies do I need and how much will it cost to complete this project?
-Please refer to the "Materials and supplies" section below.
+Please refer to the README pages for each phase, listed above.
 
 ### How long will it take me to complete this project?
 It depends on whether you decide to:
@@ -53,12 +46,9 @@ It depends on whether you decide to:
 
 
 ### Am I free to make modifications to the files and code in this repo, and can I share my modifications/ideas with others?
-Yes! This is an open source project. You are 100% free to do whatever you want with the stuff in this repo. Your creativity is enthusiastically encouraged. Please refer to the license for more details.
+Yes! This is an open source project. You are 100% free to do whatever you want with the stuff in this repo. Your creativity is enthusiastically encouraged. Please refer to the [license](LICENSE) for more details.
 
 
 ### I found some mistakes or I have questions about how to complete a step. Where can I request fixes, ask questions, or submit comments/suggestions?
 For help with specific steps in the project or fix requests, please create an Issue (and please follow the template).
 For other questions, comments, or suggestions, please email them to opencardware@gmail.com.
-
-
-## Materials and supplies
