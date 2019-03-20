@@ -9,9 +9,9 @@
 
 ![IMG_20181111_163704_resized.jpg](imgs_drivetrain/IMG_20181111_163704_resized.jpg)
 
-You'll also need the chassis. Orient it exactly like this.
+You'll also need the cardboard chassis. Orient it exactly like this.
 
-![IMG_20181215_152536_resized.jpg](imgs_mount/IMG_20181215_152536_resized.jpg)
+![IMG_20181215_152536_resized.jpg](imgs_drivetrain/IMG_20181215_152536_resized.jpg)
 
 Zip tie `base_CENTER` onto the chassis...
 
@@ -29,23 +29,23 @@ Affix the arm to the servo.
 
 ![IMG_20181111_163727_resized.jpg](imgs_drivetrain/IMG_20181111_163727_resized.jpg)
 
-Then attach the `gear_servo`.
+Then attach `gear_servo`.
 
 ![IMG_20181111_163751_resized.jpg](imgs_drivetrain/IMG_20181111_163751_resized.jpg)
 
-Then insert the `pin`.
+Insert `pin`.
 
 ![IMG_20181111_163802_resized.jpg](imgs_drivetrain/IMG_20181111_163802_resized.jpg)
 
-Plop those pieces down onto `base_CENTER`, making sure the brim of the servo fits between the guards. Press `pin` firmly down.
+Plop those pieces down onto `base_CENTER`, making sure the brim of the servo fits between the guards (see arrows in image below). Press `pin` firmly down into the hole where it sits.
 
 ![IMG_20181111_165421_resized.jpg](imgs_drivetrain/IMG_20181111_165421_resized.jpg)
 
-Loop a zip tie through `base_CENTER` and `pin`, then close zip tie. Prune the zip tie.
+Loop a zip tie through `base_CENTER` and `pin`, and close the zip tie. Prune.
 
 ![IMG_20181111_165501_resized.jpg](imgs_drivetrain/IMG_20181111_165501_resized.jpg)
 
-Connect two zip ties, as shown, and feed the vertical end into the hole going through `base_CENTER` and the chassis.
+Connect two zip ties, as shown, and feed the vertical end downward into the hole going through `base_CENTER` and the chassis.
 
 ![IMG_20181111_165601_resized.jpg](imgs_drivetrain/IMG_20181111_165601_resized.jpg)
 
@@ -53,7 +53,7 @@ Bring that end back up through the chassis and `base_CENTER`, connecting it to t
 
 ![IMG_20181111_165628_resized.jpg](imgs_drivetrain/IMG_20181111_165628_resized.jpg)
 
-Next, you need the two `ring` pieces.
+Get the two `ring` pieces.
 
 ![IMG_20181111_165806_resized.jpg](imgs_drivetrain/IMG_20181111_165806_resized.jpg)
 
@@ -69,7 +69,7 @@ Feed the `shaft` through the `ring`, then `gear_shaft`, and then the other `ring
 
 ![IMG_20181111_165958_resized.jpg](imgs_drivetrain/IMG_20181111_165958_resized.jpg)
 
-Your drivetrain should now look like this, and the two gears should mesh. Turn the `shaft` with your hand to test that `gear_shaft` meshes nicely with `gear_servo`.
+Your drivetrain should now look like this. Confirm that the two gears mesh by turning the `shaft` with your hand.
 
 ![IMG_20181111_170041_resized.jpg](imgs_drivetrain/IMG_20181111_170041_resized.jpg)
 
@@ -109,39 +109,39 @@ Then add the other four discs.
 
 ![IMG_20181114_203801_resized.jpg](imgs_drivetrain/IMG_20181114_203801_resized.jpg)
 
-This will go on the `shaft`.
+You now have a wheel.
 
 ![IMG_20181111_170825_resized.jpg](imgs_drivetrain/IMG_20181111_170825_resized.jpg)
 
-Make the holes on the `shaft` and `bolt` line up.
+Put a rubber band (tire) on the wheel.
 
-![IMG_20181114_203904_resized.jpg](imgs_drivetrain/IMG_20181114_203904_resized.jpg)
+![MVIMG_20190309_141433_resized.jpg](imgs_drivetrain/MVIMG_20190309_141433_resized.jpg)
 
 Like so.
 
-![IMG_20181114_203918_resized.jpg](imgs_drivetrain/IMG_20181114_203918_resized.jpg)
+![MVIMG_20190309_141603_resized.jpg](imgs_drivetrain/MVIMG_20190309_141603_resized.jpg)
 
-Loop a zip tie through the hole...
+Mount the wheel on the shaft.
 
-![IMG_20181111_171004_resized.jpg](imgs_drivetrain/IMG_20181111_171004_resized.jpg)
+![MVIMG_20190309_141813_resized.jpg](imgs_drivetrain/MVIMG_20190309_141813_resized.jpg)
 
-...and close.
+Make sure the holes line up.
 
-![IMG_20181111_171022_resized.jpg](imgs_drivetrain/IMG_20181111_171022_resized.jpg)
+![MVIMG_20190309_141854_resized.jpg](imgs_drivetrain/MVIMG_20190309_141854_resized.jpg)
 
-Put a rubber band on the tire.
+Thread a zip tie through the holes.
 
-![IMG_20181114_204125_resized.jpg](imgs_drivetrain/IMG_20181114_204125_resized.jpg)
+![MVIMG_20190309_142000_resized.jpg](imgs_drivetrain/MVIMG_20190309_142000_resized.jpg)
 
-Carefully.
+Close the zip tie.
 
-![IMG_20181114_204243_resized.jpg](imgs_drivetrain/IMG_20181114_204243_resized.jpg)
+![MVIMG_20190309_142131_resized.jpg](imgs_drivetrain/MVIMG_20190309_142131_resized.jpg)
 
-Like so. Repeat for the other wheel.
+Prune the zip tie. Now repeat the process for the other wheel.
 
-![IMG_20181114_204312_resized.jpg](imgs_drivetrain/IMG_20181114_204312_resized.jpg)
+![MVIMG_20190309_142145_resized.jpg](imgs_drivetrain/MVIMG_20190309_142145_resized.jpg)
 
-Next, you'll need the two `battery_corner` pieces.
+Once you've mounted both wheels, you'll need the two `battery_corner` pieces.
 
 ![IMG_20181111_172007_resized.jpg](imgs_drivetrain/IMG_20181111_172007_resized.jpg)
 
@@ -153,34 +153,7 @@ Loop a zip tie through each `battery_corner`. Make sure the zip tie buckle is on
 
 ![IMG_20181111_172130_resized.jpg](imgs_drivetrain/IMG_20181111_172130_resized.jpg)
 
-The top should look like this. Repeat for the other one.
+The top should look like this. Repeat for the other `battery_corner`.
 
 ![IMG_20181111_172155_resized.jpg](imgs_drivetrain/IMG_20181111_172155_resized.jpg)
 
-MVIMG_20190309_141433_resized.jpg
-
-![MVIMG_20190309_141433_resized.jpg](imgs_drivetrain/MVIMG_20190309_141433_resized.jpg)
-
-MVIMG_20190309_141603_resized.jpg
-
-![MVIMG_20190309_141603_resized.jpg](imgs_drivetrain/MVIMG_20190309_141603_resized.jpg)
-
-MVIMG_20190309_141813_resized.jpg
-
-![MVIMG_20190309_141813_resized.jpg](imgs_drivetrain/MVIMG_20190309_141813_resized.jpg)
-
-MVIMG_20190309_141854_resized.jpg
-
-![MVIMG_20190309_141854_resized.jpg](imgs_drivetrain/MVIMG_20190309_141854_resized.jpg)
-
-MVIMG_20190309_142000_resized.jpg
-
-![MVIMG_20190309_142000_resized.jpg](imgs_drivetrain/MVIMG_20190309_142000_resized.jpg)
-
-MVIMG_20190309_142131_resized.jpg
-
-![MVIMG_20190309_142131_resized.jpg](imgs_drivetrain/MVIMG_20190309_142131_resized.jpg)
-
-MVIMG_20190309_142145_resized.jpg
-
-![MVIMG_20190309_142145_resized.jpg](imgs_drivetrain/MVIMG_20190309_142145_resized.jpg)
