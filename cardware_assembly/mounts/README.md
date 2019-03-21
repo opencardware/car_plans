@@ -3,7 +3,7 @@
 ### What you'll need
 
 - [mount parts](../../design_3d_print/README.md)
-- Raspberry Pi (with prepared microSD card inserted)
+- Raspberry Pi
 - chassis with drivetrain, steering, and battery pack fully assembled
 - velcro straps (3)
 

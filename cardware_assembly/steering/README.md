@@ -150,19 +150,19 @@ It should swivel.
 
 ![IMG_20181114_222935_resized.jpg](imgs_steering/IMG_20181114_222935_resized.jpg)
 
-Get the servo horn.
+Get the servo horn, which should be about 2 cm in length.
 
 ![IMG_20181114_223859_resized.jpg](imgs_steering/IMG_20181114_223859_resized.jpg)
 
-It should be about 2 cm in length.
+Put on the `servo_shoe` and zip tie them together.
 
 ![IMG_20181114_223907_resized.jpg](imgs_steering/IMG_20181114_223907_resized.jpg)
 
-Put on the `servo_shoe` and zip tie them together.
+View from the other side.
 
 ![IMG_20181114_223913_resized.jpg](imgs_steering/IMG_20181114_223913_resized.jpg)
 
-Assemble with the `rod`, like so.
+Assemble that with the `rod`, like so.
 
 ![MVIMG_20190309_154923_resized.jpg](imgs_steering/MVIMG_20190309_154923_resized.jpg)
 
