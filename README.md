@@ -42,13 +42,13 @@ There are four phases to this project. Please follow the links below for instruc
 |	[Cable (8") for Raspberry Pi camera](https://www.adafruit.com/product/1647)	|	1	|
 |	[Jumper wires (female-male)](https://www.amazon.com/gp/product/B00W8YDCGA/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)	|	14	|
 |	[Zip ties (4")](https://www.amazon.com/gp/product/B00RV9TFAO/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)	|	50	|
-|	[Wide rubber bands (3.5" x 0.75")](https://www.uline.com/Product/Detail/S-17260/Rubber-Bands/94-Rubber-Bands-3-1-2-x-3-4?pricode=WB0453&gadtype=pla&id=S-17260&gclid=CjwKCAiAv9riBRANEiwA9Dqv1SpewzP2eDLOVDr56YV82Kq2l63LfRFQr5AGgxul2yZlsAY6Ld5AphoCaoQQAvD_BwE&gclsrc=aw.ds)	|	4	|
+|	[Velcro strap (6")](https://www.amazon.com/gp/product/B00O9VKVFK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)	|	4	|
+|	[Wide rubber bands (3.5" x 0.75")](https://www.uline.com/Product/Detail/S-17260/Rubber-Bands/94-Rubber-Bands-3-1-2-x-3-4?pricode=WB0453&gadtype=pla&id=S-17260&gclid=CjwKCAiAv9riBRANEiwA9Dqv1SpewzP2eDLOVDr56YV82Kq2l63LfRFQr5AGgxul2yZlsAY6Ld5AphoCaoQQAvD_BwE&gclsrc=aw.ds)	|	2	|
 |	[Binding screws (3/16" x 1-1/2")](https://www.amazon.com/gp/product/B07798GWP5/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)	|	2	|
-|	[Washers (M5 - Inner x Outter Diameter: 5x15mm/0.2x0.6inch)](https://www.amazon.com/gp/product/B07MKP54P7/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)	|	2	|
-|	[Body clip pins](https://www.rcplanet.com/traxxas-body-clips-12-tra1834/)	|	4	|
+|	[Washers (M5 - Inner x Outter Diameter: 5x15mm/0.2x0.6inch)](https://www.amazon.com/gp/product/B07MKP54P7/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)	|	4	|
+|	[Body clip pins](https://www.rcplanet.com/traxxas-body-clips-12-tra1834/)	|	1	|
 |	[Cardboard (chassis) - SET](design_cardboard/)	|	1	|
 |	[Cardstock (body) - SET](design_body/)	|	1	|
-|	[3D printed parts - SET](design_3d_print/)	|	1	|
 
 
 ## FAQ
