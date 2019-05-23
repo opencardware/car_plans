@@ -57,7 +57,9 @@ There are four phases to this project. Please follow the links below for instruc
 It depends on whether you decide to:
 - make the cardware parts yourself,
 - pay a laser cutting and/or 3D printing service to make the parts for you, or
-- (COMING SOON) buy a kit containing all of the parts ready for you to assemble. Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3, after which you can probably start programming in a day or two.
+- (COMING SOON) buy a kit containing all of the parts ready for you to assemble. 
+
+Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3 ([cardware assembly](cardware_assembly/)), after which you can probably start programming in a day or two.
 
 
 ### What can I do with this car?
