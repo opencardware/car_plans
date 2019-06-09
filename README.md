@@ -9,13 +9,12 @@ Build an RC car using cardboard and 3D-printed parts; make it autonomous with Ra
 This repository contains all of the files and documentation you need to build a programmable RC car out of cardboard and 3D-printed parts.
 
 
-### Contents
-- [Project Phases](#project-phases)
+- [Build your own car](#build-your-own-car)
 - [Materials](#materials)
 - [FAQ](#faq)
 
 
-## Project Phases
+## Build your own car
 
 There are four phases to this project. Please follow the links below for instructions on completing each phase.
 
@@ -42,6 +41,7 @@ There are four phases to this project. Please follow the links below for instruc
 |	[Cable (8") for Raspberry Pi camera](https://www.adafruit.com/product/1647)	|	1	|
 |	[Jumper wires (female-male)](https://www.amazon.com/gp/product/B00W8YDCGA/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)	|	14	|
 |	[Zip ties (4")](https://www.amazon.com/gp/product/B00RV9TFAO/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)	|	50	|
+|	[Velcro strap (6")](https://www.amazon.com/gp/product/B00O9VKVFK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)	|	3	|
 |	[Wide rubber bands (3.5" x 0.75")](https://www.uline.com/Product/Detail/S-17260/Rubber-Bands/94-Rubber-Bands-3-1-2-x-3-4?pricode=WB0453&gadtype=pla&id=S-17260&gclid=CjwKCAiAv9riBRANEiwA9Dqv1SpewzP2eDLOVDr56YV82Kq2l63LfRFQr5AGgxul2yZlsAY6Ld5AphoCaoQQAvD_BwE&gclsrc=aw.ds)	|	4	|
 |	[Binding screws (3/16" x 1-1/2")](https://www.amazon.com/gp/product/B07798GWP5/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)	|	2	|
 |	[Washers (M5 - Inner x Outter Diameter: 5x15mm/0.2x0.6inch)](https://www.amazon.com/gp/product/B07MKP54P7/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)	|	2	|
@@ -57,7 +57,9 @@ There are four phases to this project. Please follow the links below for instruc
 It depends on whether you decide to:
 - make the cardware parts yourself,
 - pay a laser cutting and/or 3D printing service to make the parts for you, or
-- (COMING SOON) buy a kit containing all of the parts ready for you to assemble. Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3, after which you can probably start programming in a day or two.
+- (COMING SOON) buy a kit containing all of the parts ready for you to assemble. 
+
+Assuming you spend 1-2 hours per day on this project, the first option might take you a week. The other two options will let you jump directly to Phase 3 ([cardware assembly](cardware_assembly/)), after which you can probably start programming in a day or two.
 
 
 ### What can I do with this car?
