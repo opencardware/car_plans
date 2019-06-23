@@ -5,7 +5,7 @@
 - Raspberry Pi
 - microSD card containing Raspbian OS image
 - LCD screen (3.5") for Raspberry Pi
-- jumper wires (14)
+- jumper wires (15)
 
 
 Connect the power (red) and ground (black) wires to the power supply pins on the breadboard.
@@ -44,68 +44,54 @@ Get the LCD screen and 12 male-female jumper wires.
 
 ![MVIMG_20190310_143139_resized.jpg](imgs_wiring/MVIMG_20190310_143139_resized.jpg)
 
-MVIMG_20190310_143657_resized.jpg
+This table shows the pin interface for the LCD screen. The LCD normally sits on top of the Pi, covering 26 of the GPIO pins. We're only going to connect the 12 pins we need to make the LCD work with the Pi.
+
+![LCD_pins.jpg](imgs_wiring/LCD_pins.jpg)
+
+The "PIN NO." column lists the 12 pins that need to be connected. Each row in this column lists the pin number(s) on the Pi that can do the job required for that "SYMBOL". (For simplicity's sake, I went with the first number in each row.) Again, you can use this [site](https://pinout.xyz/#) for reference on the Pi's GPIO pin numbers.
 
 ![MVIMG_20190310_143657_resized.jpg](imgs_wiring/MVIMG_20190310_143657_resized.jpg)
 
-MVIMG_20190310_143921_resized.jpg
+Use tape to secure the pins in place on the LCD.
 
 ![MVIMG_20190310_143921_resized.jpg](imgs_wiring/MVIMG_20190310_143921_resized.jpg)
 
-MVIMG_20190310_144009_resized.jpg
+Feed the wires through LCD mount, like so.
 
 ![MVIMG_20190310_144009_resized.jpg](imgs_wiring/MVIMG_20190310_144009_resized.jpg)
 
-MVIMG_20190310_144203_resized.jpg
+Slide the LCD mount into the corresponding mounts on the carriage.
 
 ![MVIMG_20190310_144203_resized.jpg](imgs_wiring/MVIMG_20190310_144203_resized.jpg)
 
-MVIMG_20190310_144234_resized.jpg
+Lower the LCD into the mount...
 
 ![MVIMG_20190310_144234_resized.jpg](imgs_wiring/MVIMG_20190310_144234_resized.jpg)
 
-MVIMG_20190310_144618_resized.jpg
-
-![MVIMG_20190310_144618_resized.jpg](imgs_wiring/MVIMG_20190310_144618_resized.jpg)
-
-MVIMG_20190310_144627_resized.jpg
-
-![MVIMG_20190310_144627_resized.jpg](imgs_wiring/MVIMG_20190310_144627_resized.jpg)
-
-MVIMG_20190310_144754_resized.jpg
+...like so.
 
 ![MVIMG_20190310_144754_resized.jpg](imgs_wiring/MVIMG_20190310_144754_resized.jpg)
 
-MVIMG_20190310_144859_resized.jpg
+Connect the jumper wires from the LCD into Pi's GPIO pins (should correspond exactly with the pin locations on the LCD).
 
 ![MVIMG_20190310_144859_resized.jpg](imgs_wiring/MVIMG_20190310_144859_resized.jpg)
 
-MVIMG_20190310_145224_resized.jpg
+Should look like this when you're done.
 
 ![MVIMG_20190310_145224_resized.jpg](imgs_wiring/MVIMG_20190310_145224_resized.jpg)
 
-MVIMG_20190310_183959_resized.jpg
+Plug in the USB battery charger.
 
 ![MVIMG_20190310_183959_resized.jpg](imgs_wiring/MVIMG_20190310_183959_resized.jpg)
 
-MVIMG_20190310_145837_resized.jpg
+After inserting the micro SD card with the OS installed, turn on the USB battery to boot up the Pi.
 
 ![MVIMG_20190310_145837_resized.jpg](imgs_wiring/MVIMG_20190310_145837_resized.jpg)
 
-MVIMG_20190310_182400_resized.jpg
+Connect to Wi-Fi.
 
 ![MVIMG_20190310_182400_resized.jpg](imgs_wiring/MVIMG_20190310_182400_resized.jpg)
 
-MVIMG_20190310_182437_resized.jpg
+Open the Terminal and find out the IP address of your Pi. Use that IP address to SSH into your Pi for easier code editing.
 
 ![MVIMG_20190310_182437_resized.jpg](imgs_wiring/MVIMG_20190310_182437_resized.jpg)
-
-
-MVIMG_20190310_142923_resized.jpg
-
-![MVIMG_20190310_142923_resized.jpg](imgs_wiring/MVIMG_20190310_142923_resized.jpg)
-
-MVIMG_20190310_142933_resized.jpg
-
-![MVIMG_20190310_142933_resized.jpg](imgs_wiring/MVIMG_20190310_142933_resized.jpg)
-
