@@ -39,7 +39,7 @@ There are four phases to this project. Please follow the links below for instruc
 |	[LCD screen (3.5")](https://www.amazon.com/gp/product/B01IGBDT02/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)	|	1	|
 |	[Camera for Raspberry Pi](https://www.amazon.com/gp/product/B073RCXGQS/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)	|	1	|
 |	[Cable (8") for Raspberry Pi camera](https://www.adafruit.com/product/1647)	|	1	|
-|	[Jumper wires (female-male)](https://www.amazon.com/gp/product/B00W8YDCGA/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)	|	14	|
+|	[Jumper wires (female-male)](https://www.amazon.com/gp/product/B00W8YDCGA/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)	|	15	|
 |	[Zip ties (4")](https://www.amazon.com/gp/product/B00RV9TFAO/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)	|	50	|
 |	[Velcro strap (6")](https://www.amazon.com/gp/product/B00O9VKVFK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)	|	3	|
 |	[Wide rubber bands (3.5" x 0.75")](https://www.uline.com/Product/Detail/S-17260/Rubber-Bands/94-Rubber-Bands-3-1-2-x-3-4?pricode=WB0453&gadtype=pla&id=S-17260&gclid=CjwKCAiAv9riBRANEiwA9Dqv1SpewzP2eDLOVDr56YV82Kq2l63LfRFQr5AGgxul2yZlsAY6Ld5AphoCaoQQAvD_BwE&gclsrc=aw.ds)	|	4	|
