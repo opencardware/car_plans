@@ -8,41 +8,37 @@
 - jumper wires (14)
 
 
-IMG_20181218_111947_resized.jpg
+Connect the power (red) and ground (black) wires to the power supply pins on the breadboard.
 
 ![IMG_20181218_111947_resized.jpg](imgs_wiring/IMG_20181218_111947_resized.jpg)
 
-IMG_20181218_112107_resized.jpg
-
-![IMG_20181218_112107_resized.jpg](imgs_wiring/IMG_20181218_112107_resized.jpg)
-
-IMG_20181218_112453_resized.jpg
+Secure them by taping them down.
 
 ![IMG_20181218_112453_resized.jpg](imgs_wiring/IMG_20181218_112453_resized.jpg)
 
-IMG_20181218_112548_resized.jpg
+Attach male-male jumper wires to the power and ground pins of the two servo motors.
+
+![IMG_20181218_112107_resized.jpg](imgs_wiring/IMG_20181218_112107_resized.jpg)
+
+Feed the wires from the servos through the side of the carriage, like so.
 
 ![IMG_20181218_112548_resized.jpg](imgs_wiring/IMG_20181218_112548_resized.jpg)
 
-IMG_20181218_112846_resized.jpg
+Plug them into the power supply pins of the breadboard.
 
 ![IMG_20181218_112846_resized.jpg](imgs_wiring/IMG_20181218_112846_resized.jpg)
 
-IMG_20181218_112920_resized.jpg
+Use a male-female jumper wire to connect the breadboard's ground to the Pi's ground. Locate the ground pins on the Pi using this [site](https://pinout.xyz/#).
 
 ![IMG_20181218_112920_resized.jpg](imgs_wiring/IMG_20181218_112920_resized.jpg)
 
-IMG_20181218_113123_resized.jpg
+Use male-female jumper wires to extend the servos' signal wires.
 
 ![IMG_20181218_113123_resized.jpg](imgs_wiring/IMG_20181218_113123_resized.jpg)
 
-IMG_20181218_113225_resized.jpg
+Tuck the breadboard into the carriage.
 
 ![IMG_20181218_113225_resized.jpg](imgs_wiring/IMG_20181218_113225_resized.jpg)
-
-IMG_20181218_120406_resized.jpg
-
-![IMG_20181218_120406_resized.jpg](imgs_wiring/IMG_20181218_120406_resized.jpg)
 
 MVIMG_20190310_142923_resized.jpg
 
