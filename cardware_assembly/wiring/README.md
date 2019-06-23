@@ -40,15 +40,7 @@ Tuck the breadboard into the carriage.
 
 ![IMG_20181218_113225_resized.jpg](imgs_wiring/IMG_20181218_113225_resized.jpg)
 
-MVIMG_20190310_142923_resized.jpg
-
-![MVIMG_20190310_142923_resized.jpg](imgs_wiring/MVIMG_20190310_142923_resized.jpg)
-
-MVIMG_20190310_142933_resized.jpg
-
-![MVIMG_20190310_142933_resized.jpg](imgs_wiring/MVIMG_20190310_142933_resized.jpg)
-
-MVIMG_20190310_143139_resized.jpg
+Get the LCD screen and 12 male-female jumper wires.
 
 ![MVIMG_20190310_143139_resized.jpg](imgs_wiring/MVIMG_20190310_143139_resized.jpg)
 
@@ -107,4 +99,13 @@ MVIMG_20190310_182400_resized.jpg
 MVIMG_20190310_182437_resized.jpg
 
 ![MVIMG_20190310_182437_resized.jpg](imgs_wiring/MVIMG_20190310_182437_resized.jpg)
+
+
+MVIMG_20190310_142923_resized.jpg
+
+![MVIMG_20190310_142923_resized.jpg](imgs_wiring/MVIMG_20190310_142923_resized.jpg)
+
+MVIMG_20190310_142933_resized.jpg
+
+![MVIMG_20190310_142933_resized.jpg](imgs_wiring/MVIMG_20190310_142933_resized.jpg)
 
