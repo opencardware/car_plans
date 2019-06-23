@@ -3,7 +3,7 @@
 ### What you'll need
 
 - Raspberry Pi
-- microSD card containing Raspbian OS image with LCD driver (an image I prepared can be downloaded [here](https://drive.google.com/drive/u/0/folders/17x04ZHzKELKJzLbgAJyq37-8wUqxjp53))
+- microSD card containing Raspbian OS image
 - LCD screen (3.5") for Raspberry Pi
 - jumper wires (14)
 
